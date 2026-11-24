@@ -4,8 +4,8 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const ENTRY =
-  "Don't walk out of Nenek's kitchen that Sunday without getting her rendang recipe written down while she still knows it by heart.\n" +
-  "Within a year she had forgotten it, and every pot I have cooked since tastes like a guess instead of home.\n";
+  "Don't leave Nenek's kitchen that last Sunday without getting her rendang recipe written down while she still knows it by heart.\n" +
+  "A year later she couldn't remember it, and every pot I have cooked since tastes like a guess instead of home.\n";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", ENTRY, "utf8");

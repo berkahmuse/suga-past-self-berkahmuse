@@ -10,9 +10,9 @@ Entry for the [Two Lines to Your Past Self](https://make.fun/c/u-suga-two-lines-
 
 `main.ts` writes two lines to `/output/entry.txt`:
 
-> Don't walk out of Nenek's kitchen that Sunday without getting her rendang recipe written down while she still knows it by heart.
+> Don't leave Nenek's kitchen that last Sunday without getting her rendang recipe written down while she still knows it by heart.
 >
-> Within a year she had forgotten it, and every pot I have cooked since tastes like a guess instead of home.
+> A year later she couldn't remember it, and every pot I have cooked since tastes like a guess instead of home.
 
 ## Run
 
